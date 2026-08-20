@@ -1,0 +1,3 @@
+:HL["/_next/static/chunks/09e30a~l0a67p.css","style"]
+:HL["/images/platzschlau-ordnung.webp","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"ratgeber","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"kleine-kueche-organisieren","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"iLA44UUocoZO5I0Lrw2As"}
