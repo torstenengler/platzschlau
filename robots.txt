@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://platzschlau.de
+Sitemap: https://platzschlau.de/sitemap.xml
