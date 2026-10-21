@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-21",
+  "trackingGap": "Keine Website-Sitzungen, Amazon-Klicks, Bestellungen oder Umsätze je utm_content verfügbar. Keine Verkaufsfolgerungen.",
+  "test": "Neue Ansätze; keine A/B-Variante. 3 Klick-Pins und 1 Merken-Pin. Zusammen mit vorherigem Achterblock 9 Klick/3 Merken; nächster Block auf 7:3 ausgleichen.",
+  "pins": [
+    {
+      "slug": "kueche-zuerst-verbrauchen",
+      "goal": "Merken",
+      "headline": "Vorräte: Älteres nach vorn",
+      "board": "1105141264751777255",
+      "guide": "kleine-kueche-organisieren",
+      "title": "Kleine Küche: Bald zu verbrauchende Vorräte nach vorn",
+      "body": "Stelle bald zu verbrauchende Vorräte nach vorn und neue Packungen dahinter. Inhalt, Mindesthaltbarkeit und Lagerhinweise beim Umfüllen mitnehmen. Für deine Vorratsplanung merken.",
+      "alt": "Illustration eines Vorratsschranks mit geöffneten Packungen vorn und neueren Vorräten dahinter.",
+      "benefit": "Abschnitt Vorräte lagern: Reihenfolge, Bestand und Lagerhinweise.",
+      "url": "https://platzschlau.de/ratgeber/kleine-kueche-organisieren/?utm_source=pinterest&utm_medium=organic&utm_campaign=platzschlau_pins&utm_content=2026-10-21-kueche-zuerst-verbrauchen",
+      "image": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-kueche-zuerst-verbrauchen.jpg",
+      "text": "Stelle bald zu verbrauchende Vorräte nach vorn und neue Packungen dahinter. Inhalt, Mindesthaltbarkeit und Lagerhinweise beim Umfüllen mitnehmen. Für deine Vorratsplanung merken.\n\nHinweis: Der Ratgeber enthält Affiliate-Links. KI-generierte Wohninspiration.",
+      "postId": "6ad85d9faff466fe0906bc52",
+      "dueAt": "2026-10-22T16:10:00.000Z",
+      "status": "scheduled",
+      "asset": [
+        {
+          "__typename": "ImageAsset",
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-kueche-zuerst-verbrauchen.jpg",
+          "thumbnail": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-kueche-zuerst-verbrauchen.jpg",
+          "image": {
+            "width": 1000,
+            "height": 1500,
+            "altText": "Illustration eines Vorratsschranks mit geöffneten Packungen vorn und neueren Vorräten dahinter.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        }
+      ],
+      "audience": "Menschen mit kleiner Küche",
+      "testVariant": null,
+      "utmContent": "2026-10-21-kueche-zuerst-verbrauchen"
+    },
+    {
+      "slug": "homeoffice-ladekabel-label",
+      "goal": "Klick",
+      "headline": "Ladekabel klar beschriften",
+      "board": "1105141264751777258",
+      "guide": "kabelmanagement-schreibtisch",
+      "title": "Kabelmanagement: Ladekabel am Schreibtisch beschriften",
+      "body": "Kurze, beschriftete Ladeleitungen machen ähnliche Kabelenden leichter unterscheidbar. Der Ratgeber erklärt feste Ladeplätze und erreichbare Anschlüsse. Anleitung ansehen.",
+      "alt": "Illustration eines Ladeplatzes mit kurzen, beschrifteten Kabeln für Handy und Maus.",
+      "benefit": "Abschnitt Ladeplätze: zugängliche Anschlüsse und beschriftete Leitungen.",
+      "url": "https://platzschlau.de/ratgeber/kabelmanagement-schreibtisch/?utm_source=pinterest&utm_medium=organic&utm_campaign=platzschlau_pins&utm_content=2026-10-21-homeoffice-ladekabel-label",
+      "image": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-homeoffice-ladekabel-label.jpg",
+      "text": "Kurze, beschriftete Ladeleitungen machen ähnliche Kabelenden leichter unterscheidbar. Der Ratgeber erklärt feste Ladeplätze und erreichbare Anschlüsse. Anleitung ansehen.\n\nHinweis: Der Ratgeber enthält Affiliate-Links. KI-generierte Wohninspiration.",
+      "postId": "6ad85da350009d9e9511c979",
+      "dueAt": "2026-10-22T18:13:00.000Z",
+      "status": "scheduled",
+      "asset": [
+        {
+          "__typename": "ImageAsset",
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-homeoffice-ladekabel-label.jpg",
+          "thumbnail": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-homeoffice-ladekabel-label.jpg",
+          "image": {
+            "width": 1000,
+            "height": 1500,
+            "altText": "Illustration eines Ladeplatzes mit kurzen, beschrifteten Kabeln für Handy und Maus.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        }
+      ],
+      "audience": "Menschen mit kleinem Homeoffice",
+      "testVariant": null,
+      "utmContent": "2026-10-21-homeoffice-ladekabel-label"
+    },
+    {
+      "slug": "kueche-schweres-unten",
+      "goal": "Klick",
+      "headline": "Schwere Vorräte nach unten",
+      "board": "1105141264751777255",
+      "guide": "kleine-kueche-organisieren",
+      "title": "Kleine Küche: Schwere Vorräte unten lagern",
+      "body": "Schwere Vorräte gehören nach unten, leichte Schüsseln weiter nach oben. Prüfe Standfestigkeit und Belastbarkeit zusätzlicher Einsätze. Im Ratgeber findest du die Planung für hohe Schrankfächer. Schrankplanung ansehen.",
+      "alt": "Illustration eines Küchenschranks mit schweren Vorratsgläsern unten und leichten Schüsseln oben.",
+      "benefit": "Abschnitt Schrankhöhe: Lastverteilung, Erreichbarkeit und Maße.",
+      "url": "https://platzschlau.de/ratgeber/kleine-kueche-organisieren/?utm_source=pinterest&utm_medium=organic&utm_campaign=platzschlau_pins&utm_content=2026-10-21-kueche-schweres-unten",
+      "image": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-kueche-schweres-unten.jpg",
+      "text": "Schwere Vorräte gehören nach unten, leichte Schüsseln weiter nach oben. Prüfe Standfestigkeit und Belastbarkeit zusätzlicher Einsätze. Im Ratgeber findest du die Planung für hohe Schrankfächer. Schrankplanung ansehen.\n\nHinweis: Der Ratgeber enthält Affiliate-Links. KI-generierte Wohninspiration.",
+      "postId": "6ad85da6aff466fe0906bea6",
+      "dueAt": "2026-10-23T12:42:00.000Z",
+      "status": "scheduled",
+      "asset": [
+        {
+          "__typename": "ImageAsset",
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-kueche-schweres-unten.jpg",
+          "thumbnail": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-kueche-schweres-unten.jpg",
+          "image": {
+            "width": 1000,
+            "height": 1500,
+            "altText": "Illustration eines Küchenschranks mit schweren Vorratsgläsern unten und leichten Schüsseln oben.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        }
+      ],
+      "audience": "Menschen mit kleiner Küche",
+      "testVariant": null,
+      "utmContent": "2026-10-21-kueche-schweres-unten"
+    },
+    {
+      "slug": "homeoffice-kabelreserve",
+      "goal": "Klick",
+      "headline": "Tisch höher? Kabelreserve prüfen",
+      "board": "1105141264751777258",
+      "guide": "kabelmanagement-schreibtisch",
+      "title": "Höhenverstellbarer Schreibtisch: Kabelreserve prüfen",
+      "body": "Teste den gesamten Tischhub: Kabel müssen ohne Zug mitgehen und außerhalb von Rollen und Mechanik bleiben. Der Ratgeber vertieft Bewegungsreserve und Befestigung. Bewegungsreserve prüfen.",
+      "alt": "Illustration eines höhenverstellbaren Schreibtischs mit locker geführter Kabelreserve.",
+      "benefit": "Abschnitt Bewegliche Geräte: Tischhub und zugfreie Reserve.",
+      "url": "https://platzschlau.de/ratgeber/kabelmanagement-schreibtisch/?utm_source=pinterest&utm_medium=organic&utm_campaign=platzschlau_pins&utm_content=2026-10-21-homeoffice-kabelreserve",
+      "image": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-homeoffice-kabelreserve.jpg",
+      "text": "Teste den gesamten Tischhub: Kabel müssen ohne Zug mitgehen und außerhalb von Rollen und Mechanik bleiben. Der Ratgeber vertieft Bewegungsreserve und Befestigung. Bewegungsreserve prüfen.\n\nHinweis: Der Ratgeber enthält Affiliate-Links. KI-generierte Wohninspiration.",
+      "postId": "6ad85da950009d9e9511ca9a",
+      "dueAt": "2026-10-23T13:58:00.000Z",
+      "status": "scheduled",
+      "asset": [
+        {
+          "__typename": "ImageAsset",
+          "id": null,
+          "type": "image",
+          "mimeType": "image/jpeg",
+          "source": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-homeoffice-kabelreserve.jpg",
+          "thumbnail": "https://github.com/torstenengler/platzschlau/raw/f94a147513416605397df341bd4b7301d335583b/pins/automated/2026-10-21-homeoffice-kabelreserve.jpg",
+          "image": {
+            "width": 1000,
+            "height": 1500,
+            "altText": "Illustration eines höhenverstellbaren Schreibtischs mit locker geführter Kabelreserve.",
+            "isAnimated": false,
+            "animatedThumbnail": null,
+            "userTags": null
+          }
+        }
+      ],
+      "audience": "Menschen mit kleinem Homeoffice",
+      "testVariant": null,
+      "utmContent": "2026-10-21-homeoffice-kabelreserve"
+    }
+  ]
+}
